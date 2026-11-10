@@ -1,0 +1,7 @@
+.env
+llama.cpp/
+llama-b6139-bin-win-cuda-12.4-x64/
+/__pycache__/
+.vscode/*
+.venv/
+*.gguf
